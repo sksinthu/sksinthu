@@ -60,4 +60,8 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
+//--GITHUB--SNAKE
+<div align="center">
+  <img src="https://github.com/dilshankarunarathne/dilshankarunarathne/blob/output/github-contribution-grid-snake.svg"/>
+</div><br/></br>
 
