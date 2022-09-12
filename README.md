@@ -38,12 +38,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/ajirthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sinthujan_sk" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/sinthujan_sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajirthan_" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="[(https://www.linkedin.com/in/kirushnavelu-sinthujan-8b33a8241/)](https://www.linkedin.com/feed/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajirthan_" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/10154956/ajirthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17761023" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/Ajirthan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajirthan_" height="30" width="40" />
-</a>
+
 <!--
 <a href="\https://www.youtube.com/channel/UC1seU2pY64MyXOO9lqugxCQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dilshan karunarathne" height="30" width="40" /></a>
 -->
