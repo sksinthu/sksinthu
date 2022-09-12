@@ -45,6 +45,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/sksinthu/github-readme-streak-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksinthu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/></br>
+--GITHUB--SNAKE
+<div align="center">
+  <img src="https://github.com/dilshankarunarathne/dilshankarunarathne/blob/output/github-contribution-grid-snake.svg"/>
+</div><br/></br>
  
 <h3 align="left">Support me: </h3>
 <p><a href="https://www.buymeacoffee.com/ajirthan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wmdilshan" /></a></p>
