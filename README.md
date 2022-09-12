@@ -16,16 +16,16 @@
 
 <p></p><p></p>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajirthan&style=for-the-badge&color=blueviolet" alt="ajirthan_b" />
+  <img src="https://komarev.com/ghpvc/?username=ajirthan&style=for-the-badge&color=blueviolet" alt="sinthujan_sk" />
 </div>
 <p></p><p></p>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ajirthan&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="ajirthan_b" />
+<img src="https://github-profile-trophy.vercel.app/?username=ajirthan&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="sinthujan_sk" />
 </div>
 <p></p><p></p>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ajirthan&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="ajirthan_b" />
+<img src="https://github-profile-trophy.vercel.app/?username=ajirthan&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="sinthujan_sk" />
 </div>
 
 
