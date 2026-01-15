@@ -1,69 +1,79 @@
 <h1 align="center">Kirusnavelu Sinthujan</h1>
 <p align="center">
-  Full-Stack Web Developer (MERN) • UI-focused • Problem Solver
+  Full Stack Web Developer • MERN Stack
+</p>
+
+<hr />
+
+<h3>About Me</h3>
+
+<p>
+I am a Full Stack Web Development student at <b>Uki Coding School, Jaffna</b>.
+I focus on building practical web applications using the <b>MERN stack</b>.
+I care about clean UI, logical backend structure, and writing code that actually works.
+</p>
+
+<ul>
+  <li>🌱 Currently learning: <b>React.js & Backend Architecture</b></li>
+  <li>💬 Ask me about: <b>React, JavaScript, Node.js</b></li>
+</ul>
+
+<hr />
+
+<h3>Tech Stack</h3>
+
+<b>Frontend</b>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript (ES6+)</li>
+  <li>React.js</li>
+</ul>
+
+<b>Backend</b>
+<ul>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MongoDB</li>
+</ul>
+
+<b>Tools</b>
+<ul>
+  <li>Git & GitHub</li>
+  <li>Docker (Basics)</li>
+  <li>VS Code</li>
+</ul>
+
+<hr />
+
+<h3>GitHub Stats</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sksinthu&show_icons=true&theme=default"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=500&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+modern+web+applications;MERN+Stack+Developer;Clean+UI+%7C+Scalable+Backends;Always+Learning" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sksinthu&theme=default"
+    alt="GitHub Streak"
+  />
 </p>
 
----
+<hr />
 
-## 👋 About Me
-- 🎓 Studying **Full Stack Web Development** at **Uki Coding School, Jaffna**
-- 🧠 Focused on **React, Node.js, MongoDB**
-- 🎨 Strong interest in **UI/UX & clean interfaces**
-- 🚀 Goal: Build real products, not tutorial junk
+<h3>Support</h3>
 
----
-
-## 🛠 Tech Stack (What I ACTUALLY use)
-
-### Frontend
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker)
-![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 📌 Current Focus
-- Advanced **React patterns**
-- API design & backend architecture
-- Performance & clean code
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sksinthu&show_icons=true&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sksinthu&theme=dracula&hide_border=true" />
-</p>
-
----
-
-## ☕ Support
 <p>
   <a href="https://www.buymeacoffee.com/ajirthan">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+    Buy me a coffee
   </a>
 </p>
 
----
+<hr />
 
 <p align="center">
-  <i>Build useful things. Ship fast. Improve daily.</i>
+  <i>Focused on fundamentals. Building real projects.</i>
 </p>
